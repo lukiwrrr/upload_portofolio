@@ -1,0 +1,83 @@
+.jumbotron {
+    padding-top: 2rem;
+    background-color: #182b3a;
+    background-image: linear-gradient(315deg, #182b3a 0%, #20a4f3 74%);
+}
+
+.jumbotron h1 {
+    font-family: 'Chakra Petch', sans-serif;
+}
+
+.container a {
+    font-family: 'Changa', sans-serif;
+}
+
+.container .rounded {
+    margin-top: 50px;
+}
+
+.container span a {
+    font-family: 'Merienda', cursive;
+    color: #afff;
+    font-size: 35px;
+}
+
+.myedu {
+    background-color: #48dbfb;
+    background-image: linear-gradient(315deg, #48dbfb 0%, #d3d3d3 74%);
+}
+
+.list_edu {
+    padding: 0px 0px 30px 150px;
+    display: flex;
+    font-size: 19px;
+    /* display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); */
+}
+
+.container img {
+    margin-right: 40px;
+}
+
+.lists {
+    margin-left: 120px;
+    font-size: 22px;
+    margin-top: -50px;
+    /* margin-bottom: 90px; */ 
+}
+
+.about_edu {
+    font-size: 18px;
+    position: absolute;
+    margin-left: 500px;
+    margin-right: 150px;
+    margin-top: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.card-group {
+    /* padding: 40px; */
+    margin-right: 40px;
+    margin-left: 40px;
+    gap: 40px;
+}
+
+.card-group .card-text {
+    font-size: 15px;
+    height: 180px;
+}
+
+.mycontact {
+    /* background-color: #0b60d7aa; */
+    background-color: #ffffff;
+    background-image: linear-gradient(315deg, #ffffff 0%, #335c81 74%);
+}
+
+.mycontact section {
+    margin-left: 220px;
+    margin-right: 220px;
+}
+
+.mycontact .row {
+    margin-top: 15px;
+}
